@@ -1,0 +1,25 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 {
+    color: rgb(232, 255, 148);
+    background-color: rgb(15, 16, 90);
+    text-align: center;
+}
+
+.christmas {
+    color: rgb(255, 150, 150);
+    background-color: aquamarine;
+    outline: green;
+    outline-style: groove;
+    outline-width: 2px;
+    text-align: center;
+}
+
+ul {
+    list-style: square;
+}
+
+.link {
+    font-size: 24px;
+}
