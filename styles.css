@@ -5,6 +5,11 @@ h1 {
     color: rgb(232, 255, 148);
     background-color: rgb(15, 16, 90);
     text-align: center;
+    width: 500px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: dotted 2px;
+    margin: 20px 40px;
 }
 
 .christmas {
@@ -22,4 +27,7 @@ ul {
 
 .link {
     font-size: 24px;
+    padding: 12px;
+    display: inline-block;
+    border: dotted 2px;
 }
